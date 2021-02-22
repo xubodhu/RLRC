@@ -1,0 +1,53 @@
+NA	There's no relationship between 2 and 1
+/location/neighborhood/neighborhood_of	2 is the neighborhood of 1
+/location/fr_region/capital	2 is the capital of 1 in French region
+/location/cn_province/capital	2 is the capital of 1 in Chinese province
+/location/in_state/administrative_capital	2 is the administrative capital of 1
+/base/locations/countries/states_provinces_within	2 are the states provinces within 1
+/business/company/founders		2 is the founder of 1
+/location/country/languages_spoken	2 is the languages spoken of 1
+/people/person/place_of_birth	2 is the birthplace of 1
+/people/deceased_person/place_of_death	2 is the place of death of 1
+/location/it_region/capital	2 is the capital of 1 in italy region
+/people/family/members	2 is the family members of 1
+/location/us_state/capital	2 is the capital of 1 in America
+/location/us_county/county_seat	2 is the country seat of 1 in America
+/people/profession/people_with_this_profession	1 is the profession of 2
+/location/br_state/capital	2 is the capital of 1 in Brazil state
+/location/in_state/legislative_capital	2 is the legislative capital of 1 in India state
+/sports/sports_team/location	1 sports team is in 2
+/people/person/religion	1 believes in 2
+/location/in_state/judicial_capital	2 is the judicial capital of 1 in India state
+/business/company_advisor/companies_advised	2 is the company advisor of 1
+/people/family/country	2 is the family country of 1
+/time/event/locations	1 happens in 2
+/business/company/place_founded	2 is the founded place of 1
+/location/administrative_division/country	1 is the administrative division of 2
+/people/ethnicity/included_in_group	2 is included in a group of 1
+/location/mx_state/capital	2 is the capital of 1 in Mexico state
+/location/province/capital	2 is the capital of 1 province
+/people/person/nationality	1's nationality is 2
+/business/person/company	1 works in 2
+/business/shopping_center_owner/shopping_centers_owned	2 is the shopping centers owned by 1
+/business/company/advisors	2 is the advisors of 1
+/business/shopping_center/owner	2 is the shopping center owner of 1
+/people/person/ethnicity	2 is the ethnicity of 1
+/people/deceased_person/place_of_burial	2 is the place of burial of 1
+/people/ethnicity/geographic_distribution	2 is the geographic distribution of 1
+/people/person/place_lived	1 lives in 2
+/business/company/major_shareholders	2 is the major shareholders of 1
+/broadcast/producer/location	2 is the broadcast producer location of 1
+/broadcast/content/location	2 is the broadcast content location of 1
+/business/business_location/parent_company	2 is the parent company of 1
+/location/jp_prefecture/capital	2 is the capital of 1 in Japan prefecture
+/film/film/featured_film_locations	2 is the featured film location of 1
+/people/place_of_interment/interred_here	2 was buried in 1
+/location/de_state/capital	2 is the capital of 1 in Grmany state
+/people/person/profession	2 is the profession of 1
+/business/company/locations		2 is the location of company 1
+/location/country/capital	2 is the capital of 1
+/location/location/contains	2 is located in 1
+/location/country/administrative_divisions	1 is the administrative division of 2
+/people/person/children	2 is the children of 1
+/film/film_location/featured_in_films	2 is featured in films in 1
+/film/film_festival/location	2 is the film festival location of 1
