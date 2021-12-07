@@ -50,7 +50,7 @@ python tp_sentence_test
 
 ### Cite
 
-If you use the data, please cite this paper:
+If you think our work is helpful, please cite
 
 ```
 @inproceedings{xu2021reinforced,
