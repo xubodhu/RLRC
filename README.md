@@ -48,4 +48,18 @@ python cnnmodel.py
 python tp_sentence_test
 ```
 
+### Cite
+
+If you use the data, please cite this paper:
+
+```
+@inproceedings{xu2021reinforced,
+  title={Reinforced Natural Language Inference for Distantly Supervised Relation Classification.},
+  author={Xu, Bo and Zhao, Xiangsan and Sha, Chaofeng and Zhang, Minjun and Song, Hui},
+  booktitle={PAKDD (3)},
+  pages={364--376},
+  year={2021},
+  organization={Springer}
+}
+```
  
